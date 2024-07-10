@@ -1,4 +1,4 @@
-# ASP.NET Core Web API Clean Architecture: CRUD Operations
+# ASP.NET Core Web API Clean Architecture: CRUD Operations 🚀🚀
 
 Welcome! This guide will help you learn about implementing CRUD operations using ASP.NET Core Web API with a clean architecture approach. The following technologies are used:
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you learn about implementing CRUD operations using
 - **SQL Server**
 
 ---
-## Instructor
+## 👨‍💻 Instructor
 
 **[Nitish Kaushik](https://www.linkedin.com/in/meettonitish/) is a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/e20e687b-7976-eb11-a812-000d3a8dfe0d) in developer technologies and has rich experience in Microsoft Technologies.**
 
@@ -20,8 +20,20 @@ You can find more content from Nitish on following YouTube channels:
 
 ## How to Learn and Implement Clean Architecture in ASP.NET Core Web API
 
-### Lesson 1: Setting Up Clean Architecture from Scratch
+### 👉 Lesson 1: Setting Up Clean Architecture from Scratch
 
 In this lesson, you will learn how to set up clean architecture from the ground up. We will cover the essential layers required and how to create references between them.
 
 Watch the free Video [How to Learn and Implement Clean Architecture in ASP.NET Core Web API]()
+
+
+### 👉 Lesson 2: Implement the CRUD Operations in ASP.NET Core application
+
+In this lesson we will implement the follwing CRUD Operations 
+ - Get All records
+ - Get single record by Id
+ - Add new record
+ - Update the record
+ - Delete the record
+
+Video Link [CRUD opeations in ASP.Net Core]()
