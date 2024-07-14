@@ -24,7 +24,7 @@ You can find more content from Nitish on following YouTube channels:
 
 In this lesson, you will learn how to set up clean architecture from the ground up. We will cover the essential layers required and how to create references between them.
 
-Watch the free Video [How to Learn and Implement Clean Architecture in ASP.NET Core Web API]()
+Watch the free Video [How to Learn and Implement Clean Architecture in ASP.NET Core Web API](https://www.youtube.com/watch?v=sBAB_EKYPYs)
 
 
 ### 👉 Lesson 2: Implement the CRUD Operations in ASP.NET Core application
