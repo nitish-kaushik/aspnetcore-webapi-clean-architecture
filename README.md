@@ -36,4 +36,4 @@ In this lesson we will implement the follwing CRUD Operations
  - Update the record
  - Delete the record
 
-Video Link [CRUD opeations in ASP.Net Core]()
+Video Link [CRUD opeations in ASP.Net Core](https://www.youtube.com/watch?v=YjQwGKZKWgI)
