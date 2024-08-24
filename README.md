@@ -44,3 +44,17 @@ We will be using following technologies in these CRUD operations
  - Clean Architecture
 
 🎥 Video  [CRUD opeations in ASP.Net Core](https://www.youtube.com/watch?v=YjQwGKZKWgI)
+
+### 👉 Lesson 3: Options Pattern (Get data from appsettings.json file) in ASP.NET Core application with Clean Architecture
+
+Options pattern is used to get the data (configuration) from appsettings.json and other configuration places with strongly binding. 
+Options patern reduced the chances of typo mistake for the key name while getting the data from appsetings.json
+
+🎥 Video [Options Pattern in Asp.Net Core in Class Library using Clean Architecture](https://www.youtube.com/watch?v=osSRgaBXkPY)
+
+### 👉 Lesson 4: Use HttpClient Typed implementation to call the external API (endpoints) from ASP.NET Core application
+
+In an ASP.NET Core application, there are many instances where calling external endpoints is necessary. To achieve this, we can utilize the `HttpClient`.
+
+In this video, we will explore how to use `HttpClient` to make calls to external APIs, adhering to Clean Architecture principles.
+
